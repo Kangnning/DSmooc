@@ -5,3 +5,4 @@
 * [Maximum Subsequence Sum](https://github.com/Kangnning/DSmooc/blob/master/012.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
+* [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
