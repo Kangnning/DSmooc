@@ -10,3 +10,4 @@
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
+* [二叉搜索树的操作集](https://github.com/Kangnning/DSmooc/blob/master/047.cpp)
