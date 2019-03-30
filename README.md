@@ -4,6 +4,9 @@
 * [最大子列和问题](https://github.com/Kangnning/DSmooc/blob/master/011.cpp)
 * [Maximum Subsequence Sum](https://github.com/Kangnning/DSmooc/blob/master/012.cpp)
 * [一元多项式的乘法与加法运算](https://github.com/Kangnning/DSmooc/blob/master/022.cpp)
+* Reversing Linked List  [cpp版本](https://github.com/Kangnning/DSmooc/blob/master/023.cpp)
+                          [c版本](https://github.com/Kangnning/DSmooc/blob/master/023.c)  
+   至于为什么c++的超时了，我的理解是两个类的构造和析构浪费了一定时间，毕竟算法思路都是一样的
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
