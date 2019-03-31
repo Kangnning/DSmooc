@@ -8,6 +8,7 @@
                           [c版本](https://github.com/Kangnning/DSmooc/blob/master/023.c)  
    至于为什么c++的超时了，我的理解是两个类的构造和析构浪费了一定时间，毕竟算法思路都是一样的
 * [Pop Sequence](https://github.com/Kangnning/DSmooc/blob/master/024.cpp)
+* [树的同构](https://github.com/Kangnning/DSmooc/blob/master/031.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
