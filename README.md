@@ -10,6 +10,7 @@
 * [Pop Sequence](https://github.com/Kangnning/DSmooc/blob/master/024.cpp)
 * [树的同构](https://github.com/Kangnning/DSmooc/blob/master/031.cpp)
 * [List Leaves](https://github.com/Kangnning/DSmooc/blob/master/032.cpp)
+* [Tree Traversals Again](https://github.com/Kangnning/DSmooc/blob/master/033.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
