@@ -11,9 +11,9 @@ private:
 	vector<int> Inorder;
 	vector<int> Postorder;
 public:
-	Solution(int n) :num(n) { Postorder.assign(num, 0); }
-	int* getPostPosi() { return Postorder.data(); }
-	void Input() {
+	Solution(int n) :num(n) { Postorder.assign(num, 0); }		//给Postorder分配内存
+	int* getPostPosi() { return Postorder.data(); }				//返回Postorder的地址，方便修改
+	void Input() {												//模拟堆栈，输入前序中序遍历
 		stack<int> temp_stack;
 		int temp_data;
 		string tmp;
@@ -35,21 +35,21 @@ public:
 		int root;
 		int i, L, R;
 
-		if (n == 0)
+		if (n == 0)					//树为空
 			return;
-		if (n == 1) {
+		if (n == 1) {				//树只有一个结点
 			post[postL] = Preorder[preL];
 			return;
 		}
 
-		root = Preorder[preL];
-		post[postL + n - 1] =  root;
+		root = Preorder[preL];		//此次的根结点
+		post[postL + n - 1] =  root;//将根结点插入后序遍历
 		for (i = 0; i < n; i++)
 			if (Inorder[inL + i] == root)
 				break;
 
-		L = i;
-		R = n - L - 1;
+		L = i;						//左子树的结点数	
+		R = n - L - 1;				//右子树的结点数
 		PostOrder(preL + 1, inL, postL, L, post);
 		PostOrder(preL + L + 1, inL + L + 1, postL + L, R, post);
 	}
