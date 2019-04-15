@@ -12,6 +12,7 @@
 * [List Leaves](https://github.com/Kangnning/DSmooc/blob/master/032.cpp)
 * [Tree Traversals Again](https://github.com/Kangnning/DSmooc/blob/master/033.cpp)
 * [是否同一棵二叉搜索树](https://github.com/Kangnning/DSmooc/blob/master/044.cpp)
+* [Root of AVL Tree](https://github.com/Kangnning/DSmooc/blob/master/045.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
