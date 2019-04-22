@@ -17,6 +17,7 @@
 * [堆中的路径](https://github.com/Kangnning/DSmooc/blob/master/057.cpp)
 * [File Transfer](https://github.com/Kangnning/DSmooc/blob/master/058.cpp)
 * [Huffman Codes](https://github.com/Kangnning/DSmooc/blob/master/059.cpp)
+* [列出连通集](https://github.com/Kangnning/DSmooc/blob/master/061.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
