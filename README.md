@@ -19,6 +19,7 @@
 * [Huffman Codes](https://github.com/Kangnning/DSmooc/blob/master/059.cpp)
 * [列出连通集](https://github.com/Kangnning/DSmooc/blob/master/061.cpp)
 * [Saving James Bond - Easy Version](https://github.com/Kangnning/DSmooc/blob/master/062.cpp)
+* [六度空间](https://github.com/Kangnning/DSmooc/blob/master/063.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
