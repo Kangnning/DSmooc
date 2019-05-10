@@ -21,6 +21,7 @@
 * [Saving James Bond - Easy Version](https://github.com/Kangnning/DSmooc/blob/master/062.cpp)
 * [六度空间](https://github.com/Kangnning/DSmooc/blob/master/063.cpp)
 * [哈利·波特的考试](https://github.com/Kangnning/DSmooc/blob/master/074.cpp)
+* [Saving James Bond - Hard Version](https://github.com/Kangnning/DSmooc/blob/master/075.cpp)
 * [旅游规划](https://github.com/Kangnning/DSmooc/blob/master/076.cpp)
 * [排序](https://github.com/Kangnning/DSmooc/blob/master/091.cpp)
 * [统计工龄](https://github.com/Kangnning/DSmooc/blob/master/104.cpp)
