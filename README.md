@@ -27,6 +27,7 @@
 * [How Long Does It Take](https://github.com/Kangnning/DSmooc/blob/master/088.cpp)
 * [排序](https://github.com/Kangnning/DSmooc/blob/master/091.cpp)
 * [Insert or Merge](https://github.com/Kangnning/DSmooc/blob/master/092.cpp)
+* [Insertion or Heap Sort](https://github.com/Kangnning/DSmooc/blob/master/093.cpp)
 * [统计工龄](https://github.com/Kangnning/DSmooc/blob/master/104.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
