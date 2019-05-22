@@ -31,6 +31,7 @@
 * [统计工龄](https://github.com/Kangnning/DSmooc/blob/master/104.cpp)
 * [PAT Judge](https://github.com/Kangnning/DSmooc/blob/master/105.cpp)
 * [Sort with Swap(0, i)](https://github.com/Kangnning/DSmooc/blob/master/106.cpp)
+* [电话聊天狂人](https://github.com/Kangnning/DSmooc/blob/master/111.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
