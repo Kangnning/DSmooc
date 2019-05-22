@@ -30,6 +30,7 @@
 * [Insertion or Heap Sort](https://github.com/Kangnning/DSmooc/blob/master/093.cpp)
 * [统计工龄](https://github.com/Kangnning/DSmooc/blob/master/104.cpp)
 * [PAT Judge](https://github.com/Kangnning/DSmooc/blob/master/105.cpp)
+* [Sort with Swap(0, i)](https://github.com/Kangnning/DSmooc/blob/master/106.cpp)
 ### 函数题
 * [二分查找](https://github.com/Kangnning/DSmooc/blob/master/013.cpp)
 * [两个有序链表的合并](https://github.com/Kangnning/DSmooc/blob/master/021.cpp)
